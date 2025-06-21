@@ -4,7 +4,8 @@
 
 ## Problem statement
 ### Problem:
-The HR department of a mid-sized organization is facing high employee attrition* and lacks clarity on the underlying causes. With rising recruitment and training costs, it’s critical to identify which roles, departments, and conditions are most likely to lead to employee turnover. \
+The HR department of a mid-sized organization is facing high employee attrition* and lacks clarity on the underlying causes. With rising recruitment and training costs, it’s critical to identify which roles, departments, and conditions are most likely to lead to employee turnover.
+
 _*Attrition is when employees leave the workforce faster than the rate at which their employers hire. Vacancies remain open longer, or the role is eliminated._
 ### Objective:
 Analyse employee demographics, job roles, satisfaction metrics, and compensation to uncover patterns in attrition. Use SQL to produce reports that identify risk factors, department-level trends, and potential areas for intervention, ultimately helping the organization retain top talent and improve job satisfaction.

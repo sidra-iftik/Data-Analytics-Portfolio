@@ -81,7 +81,6 @@ JOIN covidproject.covidvaccinations vac
 WHERE dea.continent is not null
 ORDER BY dea.location, dea.date
 
---1:00 hour mark
 --looking at total population that was vaccinated (using new vaccinations which is per day)
 SELECT dea.continent, dea.location, dea.date, dea.population, vac.new_vaccinations
 FROM covidproject.coviddeaths dea
